@@ -1,6 +1,4 @@
-            <h1>Miami Condo Kings</h1>
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+            #**Miami Condo Kings**
 
 - <a href="https://RomaSheva1987.github.io/miami-landing/" target="_blank">Landing for Miami</a>
 
@@ -13,3 +11,5 @@
 - BEM
 
 - JavaScript
+
+[Miami](https://RomaSheva1987.github.io/miami-landing/).
