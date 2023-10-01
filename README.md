@@ -2,7 +2,7 @@
 
 Landing page for a real estate company "Miami Condo Kings". It presents information about the company, a gallery showcasing real estate samples, customer reviews, and a contact form.
  
-# [You can view the live preview of the landing page here](https://RomaSheva1987.github.io/miami-landing/).
+You can view the live preview of the landing page here ## [demo](https://RomaSheva1987.github.io/miami-landing/).
 
 # [Figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3).
 
